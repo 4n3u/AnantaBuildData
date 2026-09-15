@@ -1,0 +1,31 @@
+{
+    "resUpdate": [
+        {
+            "minV": "4424432",
+            "maxV": "4454880",
+            "resV": "20260907060153249p8",
+            "resC": "b6c036c5fc1915aee6e08b3828ed5272",
+            "soResC": "",
+            "enableDlc": "True",
+            "triggerWarmupBelowVersion": "",
+            "codeV": "4454879",
+            "artifactV": "4423139",
+            "enableIBT": "False",
+            "enableIBTOneInN": "1"
+        },
+        {
+            "minV": "0",
+            "maxV": "4424432",
+            "resV": "20260907060153249p8",
+            "resC": "b6c036c5fc1915aee6e08b3828ed5272",
+            "soResC": "",
+            "enableDlc": "True",
+            "triggerWarmupBelowVersion": "",
+            "codeV": "4454879",
+            "artifactV": "4423139",
+            "enableIBT": "False",
+            "enableIBTOneInN": "1",
+            "reInstall": "1"
+        }
+    ]
+}
