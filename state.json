@@ -1,10 +1,10 @@
 {
   "online": {
-    "resV": "20260907060153249p8",
-    "resC": "b6c036c5fc1915aee6e08b3828ed5272",
-    "codeV": "4454879",
+    "resV": "20260907060153249p9",
+    "resC": "19734741c222c40caab65820f685ee60",
+    "codeV": "4459071",
     "artifactV": "4423139",
-    "sha256": "3b392ef3196e3f2d3f50629b379db64e4d6397775c94798805ef8e3aaad9ac35"
+    "sha256": "df9f0d6ff6051e219817db0d00cba8144bcd18d758882125d5613c9bed3972c7"
   },
   "outertest1": {
     "resV": "20260906053436790p0",
@@ -19,8 +19,8 @@
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "availability": {
-    "fastpatch:4454879": {
-      "url": "https://l50.gdl.netease.com/fastpatch/trunk/4454879/fastpatch.zip",
+    "fastpatch:4459071": {
+      "url": "https://l50.gdl.netease.com/fastpatch/trunk/4459071/fastpatch.zip",
       "status": 404,
       "reachable": false
     }
